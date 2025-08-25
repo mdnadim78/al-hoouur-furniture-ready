@@ -1,0 +1,40 @@
+{
+  "name": "al-hoourr-furniture",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "framer-motion": "11.2.10",
+    "lucide-react": "0.462.0",
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.12",
+    "@types/react": "18.3.5",
+    "autoprefixer": "10.4.19",
+    "postcss": "8.4.39",
+    "tailwindcss": "3.4.10",
+    "typescript": "5.5.4"
+  },
+  "description": "This is a ready-made Next.js + Tailwind project for **Al Hoourr Furniture** with smooth animations and a professional UI. Credit: **AV Team**.",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdnadim78/al-hoouur-furniture-ready.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdnadim78/al-hoouur-furniture-ready/issues"
+  },
+  "homepage": "https://github.com/mdnadim78/al-hoouur-furniture-ready#readme"
+}
